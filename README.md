@@ -47,10 +47,12 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachishehan&theme=dark&show_icons=true&locale=en" alt="sachishehan" />
 <br><br>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachishehan&show_icons=true&locale=en&layout=compact" alt="sachishehan" />
+
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachishehan&" alt="sachishehan" />
 </td>
 <td width=50% align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachishehan&" alt="sachishehan" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachishehan&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" alt="sachishehan" />
+
 </td>
 </tr>
 </table>
