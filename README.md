@@ -10,7 +10,7 @@
 <tr border="none">
 <td width=50% align="left">
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **.net & laravel**
 
 - 💬 Ask me about **Flutter,React**
 
